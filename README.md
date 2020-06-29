@@ -1,6 +1,6 @@
 #### Completed: April 2020
 
-The results of the time series forecasting are detailed in the PDF report.
+The results of the time series forecasting are detailed in the PDF report. Summarized results can be found in the .pptx presentation.
 
 # Analysis of National Electric Vehicle Targets in China, Japan, and France
 
