@@ -22,7 +22,7 @@ Abstract: The automobile industry constitutes to about 23% of global greenhouse 
 
 ## Keywords
 
-electric vehicles, china, japan, france, greenhouse gas emissions, time series forecasting, autocorrelation function, partial autocorrelation function, model diagnostics, state space, ARIMA, SARIMA, exponential smoothening 
+electric vehicles, china, japan, france, greenhouse gas emissions, time series forecasting, autocorrelation function, partial autocorrelation function, model diagnostics, state space, ARIMA, SARIMA, exponential smoothing 
 
 ## Dataset Information
 
