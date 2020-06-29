@@ -22,6 +22,11 @@ Abstract: The automobile industry constitutes to about 23% of global greenhouse 
 
 electric vehicles, china, japan, france, greenhouse gas emissions, time series forecasting, autocorrelation function, partial autocorrelation function, model diagnostics, state space, ARIMA, SARIMA, exponential smoothening 
 
+## Dataset Information
+
+The EV sales data was obtained from Changjiang Securities, an investment bank in China. The dataset is not publicly available due to to privacy issues. It was in comma separated value format and comprised of monthly new energy vehicles (NEV) sales in China, France and Japan from 2014 to 2019. The NEV sales included the sales of hybrid electric vehicles, plug-in hybrid electric vehicles, electric vehicles and fuel cell vehicles.    
+
+
 
 
 
