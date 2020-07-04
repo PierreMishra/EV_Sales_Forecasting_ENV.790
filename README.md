@@ -8,15 +8,15 @@ Abstract: The automobile industry constitutes to about 23% of global greenhouse 
 
 ## Investigators
 
-### China
+### China EV Sales
 
 * Ding Dang, Masters of Environmental Management, 2020, Nicholas School of the Environment, Duke University
 
-### France
+### France EV Sales
 
 * Merle Nye, Bachelors in Public Policy, Computer Science & Environmental Science, 2021, Duke University
 
-### Japan
+### Japan EV Sales
 
 * Pierre Mishra, Masters of Environmental Management, 2021, Nicholas School of the Environment, Duke University
 
